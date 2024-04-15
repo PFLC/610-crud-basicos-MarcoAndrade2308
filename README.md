@@ -65,3 +65,8 @@ Esta aplicación es una demostración básica y no implementa medidas avanzadas 
 
 Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
 
+## sugerencias:
+Una sugerencia adicional podría ser incluir una sección de requisitos del sistema, donde se describan las versiones mínimas requeridas de PHP, MySQL y cualquier otra dependencia necesaria para ejecutar la aplicación. Esto ayudaría a los usuarios a asegurarse de que tienen todo lo necesario antes de clonar el repositorio y ejecutar la aplicación.
+
+También podrías agregar una sección de "Ejemplos de Uso" en la que se muestren ejemplos simples de cómo interactuar con la aplicación una vez que esté en funcionamiento. Esto podría incluir capturas de pantalla o comandos de terminal para guiar a los usuarios a través de las diferentes funcionalidades, como agregar un usuario, editar sus detalles y eliminar un usuario.
+
